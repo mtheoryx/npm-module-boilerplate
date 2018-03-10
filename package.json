@@ -1,0 +1,20 @@
+{
+  "name": "npm-module-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate repo for publishing your own npm modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtheoryx/npm-module-boilerplate.git"
+  },
+  "keywords": ["npm", "node", "module", "boilerplate"],
+  "author": "David R Poindexter III <drpoindexter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtheoryx/npm-module-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mtheoryx/npm-module-boilerplate#readme"
+}
